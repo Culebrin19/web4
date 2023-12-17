@@ -1,0 +1,23 @@
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+
+th{
+    background-color: gray;
+    font-weight: bold;
+    font-style: italic;
+}
+
+td{
+    background-color: antiquewhite;
+    font-weight: bold;
+}
+
+.titol{
+    font-size: 50px;
+}
+
+.info{
+    font-size: 30px;
+}
