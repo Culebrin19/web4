@@ -1,0 +1,22 @@
+.avatar{
+    border-radius: 50%;
+    background-color: black;
+    width: 150px;
+}
+
+.missatge{
+    font-size: 20px;
+    color: cornflowerblue;
+}
+
+p{
+    font-size: 30px;
+}
+
+.nom{
+    color: aquamarine;
+}
+
+.data{
+    font-style: italic;
+}
