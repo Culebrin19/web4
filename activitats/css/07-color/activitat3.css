@@ -1,0 +1,22 @@
+#roig{
+    color:red
+}
+
+.negreta{
+    font-weight: bold;
+}
+
+.fondo{
+    color: white;
+    text-decoration: underline;
+    background-color: red;
+}
+
+.data{
+    font-style: italic;
+}
+
+.linea{
+    text-decoration: underline;
+    color: red;
+}
