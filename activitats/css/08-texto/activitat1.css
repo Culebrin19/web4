@@ -1,0 +1,18 @@
+.obra{
+    font-size: 70px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.escritor{
+    font-size: 40px;
+}
+
+.prologo{
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.text{
+    font-size: 20px;
+}
