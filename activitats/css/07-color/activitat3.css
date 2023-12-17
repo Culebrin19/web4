@@ -1,4 +1,9 @@
+.roig{
+    color:red
+}
+
 #roig{
+    text-decoration: underline;
     color:red
 }
 
@@ -8,7 +13,6 @@
 
 .fondo{
     color: white;
-    text-decoration: underline;
     background-color: red;
 }
 
