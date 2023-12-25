@@ -1,0 +1,22 @@
+.a{
+    margin: 7rem 5rem 3rem;
+    background-color: darkgray;
+}
+
+.linia{
+    text-decoration: underline;
+}
+
+.h1{
+    margin: 7rem 5rem 3rem;
+    font-size: 50px;
+}
+
+.p{
+    margin: 3rem 5rem 3rem;
+    width: 700px;
+}
+
+.b{
+    margin: 0rem 5rem;
+}

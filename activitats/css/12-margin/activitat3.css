@@ -1,0 +1,46 @@
+.imatge{
+    background-image: url('img1.png');
+    background-size: cover;
+    width: 100%; 
+    height: 500px; 
+}
+
+.text{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    line-height: 400px; /*Mou el text a la imatge*/ 
+    text-transform: uppercase;
+}
+
+.subtext{
+    color: white;
+    margin: 1rem 10rem;
+    margin-top: -150px; 
+}
+
+.button1{
+    margin: 0rem 40rem;
+}
+
+.color{
+    background-color:lightgreen;
+    width: 100%;
+    height: 300px;
+}
+
+.text1{
+    text-align: center;
+    color: white;
+    line-height: 150px;
+}
+
+.subtext1{
+    color: white;
+    margin: 1rem 10rem;
+    margin-top: -50px; 
+}
+
+.button2{
+    margin: 0rem 40rem;
+}
