@@ -1,0 +1,38 @@
+.text{
+    width: 15%;
+}
+
+.preu{
+    margin-top: -20px;
+}
+
+.dolar{
+    font-size: 10px;
+    vertical-align: super;
+}
+
+.arriba{
+    margin-top: -25px;
+    width: 15%;
+}
+
+.color{
+    color:red;
+}
+
+
+.button{
+    width: 10%;
+    height: 40px;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px; 
+}
+
+td{
+    border: 1px solid #ddd; 
+    padding: 8px;
+    height: 30px;
+}
