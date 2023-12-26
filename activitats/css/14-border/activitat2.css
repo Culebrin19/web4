@@ -1,4 +1,6 @@
 img{
-    border: 10px solid; 
+    border: 10px solid ; 
     color: orange;
+    border-left: 10px dashed orange;
+    border-right: 10px dashed orange;
 }
