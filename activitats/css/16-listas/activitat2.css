@@ -1,0 +1,9 @@
+ul {
+    list-style-type: none;
+}
+
+.cor:before{
+    content: "\2764";
+    color: red;
+    font-size: 20px;
+}
