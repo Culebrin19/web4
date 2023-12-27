@@ -12,8 +12,13 @@
     width: 400px;
     height: 400px;
     background-color: blue;
+    filter: opacity(50%);
 }
 
 .cercle, .cercle2 {
     display: inline-block;
+}
+
+.cercle2:hover{
+    transform: translateX(-400px);
 }
