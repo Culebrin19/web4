@@ -1,0 +1,19 @@
+.cercle {
+    background: lightblue;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}
+
+.cercle2 {
+    background: lightblue;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}
+
+.cercle, .cercle2 {
+    display: inline-block;
+}
