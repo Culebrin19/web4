@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+    overflow-x: auto; 
+}
+
+th, td {
+    border: 1px solid;
+    padding: 12px;
+    overflow: hidden;
+}
+
+th {
+    background-color:antiquewhite;
+}

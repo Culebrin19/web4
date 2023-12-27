@@ -1,0 +1,9 @@
+button:hover{
+    transform: rotate(15deg);
+}
+
+button{
+    font-size: 40px;
+    margin-top: 15rem;
+    margin-left: 20rem;
+}
