@@ -1,0 +1,17 @@
+input {
+    transition: 0.6s;
+}
+
+input:focus {
+    border: 2px solid #007bff;
+    transform: scale(1.1);
+}
+
+button {
+    padding: 10px;
+    background-color: antiquewhite;
+}
+
+button:hover {
+    background-color:transparent;
+}

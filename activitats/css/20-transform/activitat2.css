@@ -43,6 +43,10 @@
 	background-color:aquamarine ;
 }
 
+.content-modal:hover{
+	transform: scale(2);
+}
+
 .content-modal .boton-cerrar{
 	width: 100%;
 	margin-top: 15px;
