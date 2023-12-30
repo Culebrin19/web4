@@ -1,8 +1,20 @@
-.imatge{
-    background-image: url("img3.png");
+.imatge {
     height: 100vh;
+    background-image: url('img3.png'); 
+    background-size: cover;
+    background-position: center;
 }
 
-h2{
-    color
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    margin-bottom: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 16px;
 }
