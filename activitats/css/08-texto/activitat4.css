@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'TitolFont';
+    src: url('titol.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'TextFont';
+    src: url('text.ttf') format('truetype');
+}
+
+.titol {
+    font-family: 'TitolFont', sans-serif;
+}
+
+.text {
+    font-family: 'TextFont', sans-serif;
+}
