@@ -1,9 +1,9 @@
 .cargant {
-    border-top: 8px solid;  /*creacio cercle */
-    border-radius: 50%;     /*creacio cercle */
-    width: 50px;    /* tamany */
-    height: 50px;    /* tamany */
-    animation: gira 1s linear infinite;  /* animacio de gir infinita */
+    border-top: 12px solid;  /*creacio cercle */
+    border-radius: 100%;     /*creacio cercle */
+    width: 100px;    /* tamany */
+    height: 100px;    /* tamany */
+    animation: gira 2s linear infinite;  /* animacio de gir infinita */
 }
 @keyframes gira {
     from { transform: rotate(0deg); }   
