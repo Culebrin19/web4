@@ -34,3 +34,7 @@ table{
     margin-left: 20%;
     margin-top: -350px;
 }
+
+.arriba.tr:nth-child(even){
+    background-color: aqua;
+}
