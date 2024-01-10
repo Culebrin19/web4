@@ -29,3 +29,8 @@
     color: black;
     padding: 14px;
 }
+
+.fondo{
+    background-image: url(../imatges/fondo.jpg);
+    background-repeat: no-repeat;
+}
