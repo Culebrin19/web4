@@ -1,5 +1,6 @@
 .titol{
     margin-top: 10%;
+    font-size: 50px;
 }
 
 .text{
@@ -21,4 +22,15 @@ table{
 
 .centrar{
     margin-left: 6%;   
+}
+
+.foto{
+    float: right;
+    height: 300px;
+    margin-right: 40rem;
+}
+
+.arriba{
+    margin-left: 20%;
+    margin-top: -350px;
 }
