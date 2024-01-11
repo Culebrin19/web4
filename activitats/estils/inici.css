@@ -43,12 +43,6 @@ body{
     height: 100%;
 }
 
-.fondo{
-    background-image: url(../imatges/fondo.jpg);
-    background-size: cover;
-    height: 800px;
-}
-
 .color{
     color: white;
 }
@@ -81,4 +75,10 @@ span{
 
 button a{
     color: black;
+}
+
+body{
+    background-image: url(../imatges/fondo.jpg);
+    background-size: cover;
+    color: white;
 }

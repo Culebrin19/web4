@@ -49,9 +49,9 @@ body{
     height: 100%;
 }
 
-.fondo{
-    background-color: #191c32;
-    height: 100vh;
+body{
+    background-image: url(../imatges/fondo.jpg);
+    background-size: cover;
     color: white;
 }
 
