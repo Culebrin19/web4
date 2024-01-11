@@ -1,21 +1,28 @@
-.titol{
-	position: absolute;
-	top:  0px;
-	background-color: #2FB387;
-	padding: 0;
-	width: 100%;
+.menu {
+    border-bottom: 2px solid black;
+    font-size: 20px;
+    display: flex;
+    justify-content: right;
 }
 
-.menu {
-    background-color:dimgray;
-	margin: 0;
-	padding: 1px;
-	margin-top: 70px;
+a:link{
+    color: crimson;
+}
+
+a:visited{
+    color: red;
+}
+
+a:active{
+    color: #2FB387;
+}
+
+a:hover{
+    color: white;
 }
 
 .menu ul {
     list-style-type: none;
-    overflow: hidden;
      margin: 0px;
     padding: 15px;    
 }
@@ -27,10 +34,31 @@
 .menu a {
     text-decoration: none;
     color: black;
-    padding: 14px;
+    padding: 30px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
 }
 
 .fondo{
     background-image: url(../imatges/fondo.jpg);
-    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.color{
+    color: white;
+}
+
+ul{
+    text-align: center; 
+}
+
+img{
+    height: 80px;
+    width: 80px;
+    margin-right: auto;
 }
