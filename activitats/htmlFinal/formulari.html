@@ -3,17 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../estils/formulari.css">
     <title>Formulari</title>
 </head>
 <body>
+    <div class="fondo">
+        <div class="menu">
+         <img src="../imatges/H.jpg" alt="">
+             <ul>
+                 <li><a href="./informacio.html">Informacio</a></li>
+                 <li><a href="./activiats.html">Activitats</a></li>
+                 <li><a href="./formulari.html">Formulari</a></li>
+                 <li><a href="./descarregues.html">Descarregues</a></li>
+             </ul>
+         </div>
+         <button><a href="../htmlFinal/inici.html">Volver a inicio</a></button>
     <form action="formulari.html">
-        <label for="nom">Nom:</label>
-        <input type="text" id="nom" name="nom" required> 
-        <label for="gmail">Gmail:</label>
-        <input type="email" name="gmail" id="gmail" required>
-        <label for="telefon">Telefon:</label>
-        <input type="number" name="telefon" id="telefon" required>
-        <label for=""></label>
-    </form>
+
+            <form class="formulari">
+                <label for="Credenciales">Nombre:</label>
+                <input type="text" class="credenciales" name="credenciales">
+
+                <label for="Credenciales">Apellido:</label>
+                <input type="text" class="credenciales" name="credenciales">
+
+                <label for="Credenciales">Correo:</label>
+                <input type="text" class="credenciales" name="credenciales">
+            
+                <label for="comentarios">Mensaje:</label>
+                <textarea name="comentario" class="comentarios"></textarea>
+            
+                <button type="submit">Enviar comentario</button>
+              </form>		
+    </div>
 </body>
 </html>

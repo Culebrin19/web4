@@ -1,0 +1,90 @@
+.menu {
+    font-size: 20px;
+    display: flex;
+    justify-content: right;
+    padding: 1em;
+}
+
+ul a:link{
+    color: crimson;
+}
+
+ul a:visited{
+    color: red;
+}
+
+ul a:active{
+    color: #2FB387;
+}
+
+ul a:hover{
+    color: white;
+}
+
+.menu ul {
+    list-style-type: none;
+     margin: 0px;
+    padding: 15px;    
+}
+
+.menu li {
+    float: left;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+
+img{
+    height: 80px;
+    width: 80px;
+    margin-right: auto;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.fondo{
+    background-color: #191c32;
+    height: 100vh;
+    color: white;
+}
+
+form{
+    font-size:40px;
+    
+}
+
+.formulari{
+    font-weight: bold;
+    text-align: right;
+    background-color: darkgrey;
+}
+
+ label{
+  padding: 5px;
+  width: 50%;
+}
+
+.formulari{
+    width: 1px;
+    margin: auto;
+    background-color: #6D6D6E;
+}
+
+.credenciales{
+    background-color: aquamarine;
+}
+
+button {
+    margin: 40px;
+    border-radius: 8px;
+    padding: 10px 10px;
+}
+
+
