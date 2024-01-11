@@ -4,10 +4,9 @@ body{
     height: 100%;
 }
 
-.fondo{
-    background-color: #191c32;
-    height: 150vh;
-    color: white;
+body{
+    background-image: url(../imatges/fondo.jpg);
+    background-size: cover;
 }
 
 .menu {
@@ -53,4 +52,29 @@ img{
     height: 80px;
     width: 80px;
     margin-right: auto;
+}
+
+.boton {
+    margin: 40px;
+    border-radius: 8px;
+    padding: 10px 10px;
+}
+
+.html{
+    margin-left: 10rem;
+    color: white;
+}
+
+.html a{
+    color: aquamarine;
+}
+
+.css{
+    margin-left: 30rem;
+    margin-top: -82rem;
+    color: white;
+}
+
+.css a{
+    color: aquamarine;
 }
