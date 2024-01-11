@@ -1,3 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.fondo{
+    background-color: #191c32;
+    height: 100vh;
+    color: white;
+}
+
 .titol{
     margin-top: 10%;
     font-size: 50px;
@@ -12,7 +24,7 @@ img{
 }
 
 th,td{
-    border: 3px black solid;
+    border: 3px burlywood solid;
 }
 
 table{
