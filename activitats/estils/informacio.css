@@ -26,8 +26,9 @@ table{
 
 .foto{
     float: right;
-    height: 300px;
-    margin-right: 40rem;
+    height: 250px;
+    margin-right: 30rem;
+    margin-top: -40px;
 }
 
 .arriba{
