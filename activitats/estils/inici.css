@@ -5,19 +5,19 @@
     padding: 1em;
 }
 
-a:link{
+ul a:link{
     color: crimson;
 }
 
-a:visited{
+ul a:visited{
     color: red;
 }
 
-a:active{
+ul a:active{
     color: #2FB387;
 }
 
-a:hover{
+ul a:hover{
     color: white;
 }
 
@@ -77,4 +77,8 @@ img{
 span{
     color: aqua;
     text-decoration: underline;
+}
+
+button a{
+    color: black;
 }
