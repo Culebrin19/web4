@@ -102,3 +102,17 @@ ul a:hover{
     width: 80px;
     margin-right: auto;
 }
+
+tr:nth-child(even):hover {
+
+    background-color:antiquewhite;
+    color: black;
+}
+
+tr:nth-child(odd):hover {
+
+    background-color:aquamarine;
+    color: black;
+}
+
+
