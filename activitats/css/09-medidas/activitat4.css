@@ -1,5 +1,5 @@
 .groc{
     text-decoration: underline;
     display: inline-block;
-    background: linear-gradient(transparent 70%, rgba(249, 249, 12, 0.563) 70%, rgba(249, 249, 12, 0.563) 90%, transparent 90%);
+    background: rgba(249, 249, 12, 0.3);
 }

@@ -9,6 +9,7 @@
 
 .negreta{
     font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .fondo{
@@ -34,4 +35,8 @@
 .fondo2{
     background-color: rgba(210, 210, 210, 0.8);
     height: 30em;
+}
+
+.estil{
+    font-family:serif ;
 }
