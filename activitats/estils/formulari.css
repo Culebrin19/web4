@@ -47,9 +47,6 @@ body{
     margin: 0;
     padding: 0;
     height: 100%;
-}
-
-body{
     background-image: url(../imatges/fondo.jpg);
     background-size: cover;
     color: white;
@@ -57,24 +54,16 @@ body{
 
 form{
     font-size:40px;
-    
-}
-
-.formulari{
-    font-weight: bold;
-    text-align: right;
-    background-color: darkgrey;
+    padding: 20px;
+    border-radius: 8px;
 }
 
  label{
   padding: 5px;
   width: 50%;
-}
-
-.formulari{
-    width: 1px;
-    margin: auto;
-    background-color: #6D6D6E;
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
 }
 
 .credenciales{
@@ -87,8 +76,10 @@ button {
     padding: 10px 10px;
 }
 
-form{
-    
+input, select {
+    padding: 4px;
+    width: 15%;
 }
+
 
 

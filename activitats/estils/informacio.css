@@ -41,6 +41,7 @@ table{
     height: 250px;
     margin-right: 30rem;
     margin-top: 10rem;
+    border: 10px red solid;
 }
 
 .arriba{

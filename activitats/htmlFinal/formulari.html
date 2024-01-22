@@ -24,17 +24,26 @@
                 <label for="Credenciales">Nombre:</label>
                 <input type="text" class="credenciales" name="credenciales">
 
-               <br> <label for="Credenciales">Apellido:</label>
+                <br> <label for="Credenciales">Apellido:</label>
                 <input type="text" class="credenciales" name="credenciales">
 
                 <br><label for="Credenciales">Correo:</label>
-                <input type="text" class="credenciales" name="credenciales">
+                <input type="email" class="credenciales" name="credenciales">
+
+                <br><label for="Credenciales">Telefono:</label>
+                <input type="tel" class="credenciales" name="credenciales">
             
-               <br> <label for="comentarios">Mensaje:</label>
+                <br> <label for="comentarios">Mensaje:</label>
                 <textarea name="comentario" class="comentarios"></textarea>
+
+                <br><label for="genero">Genero:</label>
+                    <select id="genero" name="genero">
+                        <option value="masculino">Masculino</option>
+                        <option value="femenino">Femenino</option>
+                    </select>
             
                 <br><button type="submit">Enviar comentario</button>
-              </form>		
+            </form>		
     </div>
 </body>
 </html>
