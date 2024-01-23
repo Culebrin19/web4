@@ -61,8 +61,11 @@ img{
 }
 
 .html{
+    width: 15%;
     margin-left: 10rem;
     color: white;
+    background-color: cornflowerblue;
+    text-align: center;
 }
 
 .html a{
@@ -70,9 +73,12 @@ img{
 }
 
 .css{
+    width: 15%;
+    background-color: cornflowerblue;
     margin-left: 30rem;
     margin-top: -82rem;
     color: white;
+    text-align: center;
 }
 
 .css a{
