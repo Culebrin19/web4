@@ -1,6 +1,7 @@
 .a{
     margin: 7rem 5rem 3rem;
     background-color: darkgray;
+    width: 60%;
 }
 
 .linia{
@@ -19,4 +20,10 @@
 
 .b{
     margin: 0rem 5rem;
+}
+
+button{
+    border-radius: 30px;
+    padding: 1rem 2rem 1rem 2rem;
+    background-color: transparent;
 }

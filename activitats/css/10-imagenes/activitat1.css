@@ -20,3 +20,63 @@ p{
 .data{
     font-style: italic;
 }
+
+.persona1{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    text-align: start;
+    height: 25rem;
+    width: 40%;
+    margin-left: 4rem;
+}
+
+.persona2{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    text-align: start;
+    height: 25rem;
+    width: 40%;
+    float: right;
+    margin-right: 4rem;
+}
+
+.persona3{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    text-align: start;
+    height: 25rem;
+    width: 40%;
+    margin-left: 4rem;
+    margin-top: 25rem;
+}
+
+.persona4{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    text-align: start;
+    height: 25rem;
+    width: 40%;
+    float: right;
+    margin-right: 4rem;
+}
+
+.hora1{
+    font-style: italic;
+    color: black;
+    text-align: right;
+    float: right;
+    padding-right: 2rem;
+    margin-top: 1rem;
+}
+
+.hora2{
+    font-style: italic;
+    color: black;
+    float: right;
+    padding-right: 2rem;
+    margin-top: 1rem;
+}
+
+body{
+    background-color: black;
+}
