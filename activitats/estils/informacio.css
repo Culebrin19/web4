@@ -67,19 +67,19 @@ button {
 }
 
 ul a:link{
-    color: crimson;
+    color: aquamarine;
 }
 
-ul a:visited{
+.menu ul a:visited{
     color: red;
 }
 
-ul a:active{
-    color: #2FB387;
+.menu ul a:hover{
+    color: white;
 }
 
-ul a:hover{
-    color: white;
+.menu ul a:active{
+    color: #2FB387;
 }
 
 .menu ul {
