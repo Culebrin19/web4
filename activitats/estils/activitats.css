@@ -1,12 +1,10 @@
 body{
-    margin: 0;
-    padding: 0;
-    height: 100%;
-}
-
-body{
     background-image: url(../imatges/fondo.jpg);
     background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100rem;
+    background-repeat: no-repeat;
 }
 
 .menu {
@@ -14,22 +12,6 @@ body{
     display: flex;
     justify-content: right;
     padding: 1em;
-}
-
-ul a:link{
-    color: crimson;
-}
-
-ul a:visited{
-    color: red;
-}
-
-ul a:active{
-    color: #2FB387;
-}
-
-ul a:hover{
-    color: white;
 }
 
 .menu ul {
@@ -61,8 +43,9 @@ img{
 }
 
 .html{
-    width: 15%;
-    margin-left: 10rem;
+    width: 20%;
+    padding-bottom: 2rem;
+    margin-left: 2rem;
     color: white;
     background-color: cornflowerblue;
     text-align: center;
@@ -73,14 +56,96 @@ img{
 }
 
 .css{
-    width: 15%;
+    width: 20%;
+    padding-bottom: 0.8rem;
     background-color: cornflowerblue;
+    margin-top: -83.5rem;
     margin-left: 30rem;
-    margin-top: -82rem;
     color: white;
     text-align: center;
 }
 
 .css a{
     color: aquamarine;
+}
+
+.css2 a{
+    color: aquamarine;
+}
+
+.css2{
+    width: 20%;
+    padding-bottom: 1rem;
+    background-color: cornflowerblue;
+    margin-left: 58rem;
+    color: white;
+    text-align: center;
+    margin-top: -83.6rem;
+}
+
+.html a:link{
+    color: white;
+}
+
+.html a:visited{
+    color: pink;
+}
+
+.html a:hover{
+    color: black;
+}
+
+.html a:active{
+    color: white;
+}
+
+
+.css a:link{
+    color: white;
+}
+
+.css a:visited{
+    color: pink;
+}
+
+.css a:hover{
+    color: black;
+}
+
+
+.css a:active{
+    color: white;
+}
+
+
+.css2 a:link{
+    color: white;
+}
+
+.css2 a:visited{
+    color: pink;
+}
+
+.css2 a:hover{
+    color: black;
+}
+
+.css2 a:active{
+    color: white;
+}
+
+ul a:link{
+    color: crimson;
+}
+
+.menu ul a:visited{
+    color: red;
+}
+
+.menu ul a:active{
+    color: #2FB387;
+}
+
+.menu ul a:hover{
+    color: white;
 }
