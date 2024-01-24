@@ -37,10 +37,11 @@
 
 .footer{
     color: white;
-    margin-top: 8%;
+    margin-top: 10%;
     margin-left: 10%;
     background-color:mediumturquoise;
     height: 40px;
+    padding: 1rem;
     text-align: center;
     margin-left: 0px;
 }
