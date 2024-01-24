@@ -42,49 +42,28 @@ img{
     padding: 10px 10px;
 }
 
-.html{
-    width: 20%;
-    padding-bottom: 2rem;
-    margin-left: 2rem;
-    color: white;
-    background-color: cornflowerblue;
-    text-align: center;
-}
-
 .html a{
     color: aquamarine;
 }
 
-.css{
-    width: 20%;
-    padding-bottom: 0.8rem;
-    background-color: cornflowerblue;
-    margin-top: -83.5rem;
-    margin-left: 30rem;
+.html, .css, .css2{
     color: white;
+    background-color: cornflowerblue;
     text-align: center;
 }
 
-.css a{
-    color: aquamarine;
+.contenedor{
+    display: flex;
+    width: 60%;
 }
 
-.css2 a{
-    color: aquamarine;
-}
-
-.css2{
-    width: 20%;
-    padding-bottom: 1rem;
-    background-color: cornflowerblue;
-    margin-left: 58rem;
-    color: white;
-    text-align: center;
-    margin-top: -83.6rem;
+.html, .css, .css2{
+    flex: 1;
+    margin: 10px;
 }
 
 .html a:link{
-    color: white;
+    color: aquamarine;
 }
 
 .html a:visited{
@@ -101,7 +80,7 @@ img{
 
 
 .css a:link{
-    color: white;
+    color: aquamarine;
 }
 
 .css a:visited{
@@ -119,7 +98,7 @@ img{
 
 
 .css2 a:link{
-    color: white;
+    color: aquamarine;
 }
 
 .css2 a:visited{

@@ -116,4 +116,22 @@ tr:nth-child(odd):hover {
     color: black;
 }
 
+.contenedor{
+    display: flex;
+    height: 10rem;
+}
+
+.lenguajes, .arriba{
+    flex: 1;
+    margin: 10px;
+}
+
+.arriba{
+    margin-top: 7.7rem;
+}
+
+.info{
+    border: 2px solid black;
+}
+
 
