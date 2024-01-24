@@ -134,18 +134,19 @@ img{
     color: white;
 }
 
+
 ul a:link{
-    color: crimson;
+    color: aquamarine;
 }
 
 .menu ul a:visited{
     color: red;
 }
 
-.menu ul a:active{
-    color: #2FB387;
-}
-
 .menu ul a:hover{
     color: white;
+}
+
+.menu ul a:active{
+    color: #2FB387;
 }
