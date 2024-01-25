@@ -1,6 +1,5 @@
 body{
-    background-image: url(../imatges/fondo.jpg);
-    background-size: cover;
+    background-color: wheat;
     margin: 0;
     padding: 0;
     height: 100rem;
@@ -47,8 +46,7 @@ img{
 }
 
 .html, .css, .css2{
-    color: white;
-    background-color: cornflowerblue;
+    color: black;
     text-align: center;
 }
 
@@ -63,54 +61,54 @@ img{
 }
 
 .html a:link{
-    color: aquamarine;
+    color: red;
 }
 
 .html a:visited{
-    color: pink;
+    color: white;
 }
 
 .html a:hover{
-    color: black;
+    color: greenyellow;
 }
 
 .html a:active{
-    color: white;
+    color: darkorchid;
 }
 
 
 .css a:link{
-    color: aquamarine;
+    color: red;
 }
 
 .css a:visited{
-    color: pink;
+    color: white;
 }
 
 .css a:hover{
-    color: black;
+    color: greenyellow;
 }
 
 
 .css a:active{
-    color: white;
+    color: darkorchid;
 }
 
 
 .css2 a:link{
-    color: aquamarine;
+    color: red;
 }
 
 .css2 a:visited{
-    color: pink;
+    color: white;
 }
 
 .css2 a:hover{
-    color: black;
+    color: greenyellow;
 }
 
 .css2 a:active{
-    color: white;
+    color: darkorchid;
 }
 
 

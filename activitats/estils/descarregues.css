@@ -5,8 +5,7 @@ body{
 }
 
 body{
-    background-image: url(../imatges/fondo.jpg);
-    background-size: cover;
+    background-color: wheat;
 }
 
 .menu {
