@@ -104,13 +104,25 @@ ul a:link{
     margin-right: auto;
 }
 
-tr:nth-child(even):hover {
+.lenguajes tr:nth-child(even):hover {
 
     background-color:antiquewhite;
     color: black;
 }
 
-tr:nth-child(odd):hover {
+.lenguajes tr:nth-child(odd):hover {
+
+    background-color:aquamarine;
+    color: black;
+}
+
+.arriba tr:nth-child(even):hover {
+
+    background-color:antiquewhite;
+    color: black;
+}
+
+.arriba tr:nth-child(odd):hover {
 
     background-color:aquamarine;
     color: black;
@@ -133,5 +145,11 @@ tr:nth-child(odd):hover {
 .info{
     border: 2px solid black;
 }
+
+.negreta{
+    font-weight: bold;
+    color: violet;
+}
+
 
 
