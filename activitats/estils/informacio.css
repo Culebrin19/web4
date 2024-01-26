@@ -6,7 +6,7 @@ body{
 
 body{
     background-color: wheat;
-    color: white;
+    color: black;
 }
 
 .titol{
@@ -46,7 +46,7 @@ table{
 .arriba{
     margin-top: -350px;
     display: flex;
-    padding-right: 70rem;
+    padding-right: 45rem;
 }
 
 .arriba.tr:nth-child(even){
@@ -106,14 +106,15 @@ ul a:link{
 
 .lenguajes tr:nth-child(even):hover {
 
-    background-color:antiquewhite;
+    background-color:darkseagreen;
     color: black;
 }
 
 .lenguajes tr:nth-child(odd):hover {
 
     background-color:aquamarine;
-    color: black;
+    color: red;
+    font-weight: bold;
 }
 
 .arriba tr:nth-child(even):hover {
