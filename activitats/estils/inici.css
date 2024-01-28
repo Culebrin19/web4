@@ -58,6 +58,14 @@ img{
     width: 700px;
     padding-top: 15rem;
     padding-left: 25%;
+    opacity: 0;
+    animation: mostrar 4s forwards;
+}
+
+@keyframes mostrar {
+    to {
+        opacity: 1;
+    }
 }
 
 .text p{
