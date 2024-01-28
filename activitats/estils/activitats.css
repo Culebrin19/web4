@@ -113,7 +113,7 @@ img{
 
 
 ul a:link{
-    color: aquamarine;
+    color: black;
 }
 
 .menu ul a:visited{
@@ -126,4 +126,8 @@ ul a:link{
 
 .menu ul a:active{
     color: #2FB387;
+}
+
+button a{
+    text-decoration: none;
 }

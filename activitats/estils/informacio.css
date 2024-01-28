@@ -67,7 +67,7 @@ button {
 }
 
 ul a:link{
-    color: aquamarine;
+    color: black;
 }
 
 .menu ul a:visited{
@@ -158,6 +158,10 @@ ul a:link{
 
 p{
     font-size: 20px;
+}
+
+button a{
+    text-decoration: none;
 }
 
 
