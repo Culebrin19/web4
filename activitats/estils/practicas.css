@@ -92,3 +92,11 @@ footer {
     color: black;
     padding-left: 2rem;
 }
+
+.redes a{
+    margin-left: 4rem;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
