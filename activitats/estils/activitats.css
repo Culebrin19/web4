@@ -131,3 +131,9 @@ ul a:link{
 button a{
     text-decoration: none;
 }
+
+footer {
+    color: black;
+    padding-bottom: 0.4rem;
+    padding-left: 2rem;
+}
