@@ -16,7 +16,7 @@ body{
 }
 
 ul a:link{
-    color: aquamarine;
+    color: black;
 }
 
 .menu ul a:visited{
@@ -57,5 +57,9 @@ button {
     margin: 40px;
     border-radius: 8px;
     padding: 10px 10px;
+}
+
+button a{
+    text-decoration: none;
 }
 

@@ -6,7 +6,7 @@
 }
 
 ul a:link{
-    color: aquamarine;
+    color: black;
 }
 
 .menu ul a:visited{
@@ -86,4 +86,8 @@ body{
     background-color: wheat;
     background-size: cover;
     color: white;
+}
+
+button a{
+    text-decoration: none;
 }
