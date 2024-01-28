@@ -1,4 +1,3 @@
 img:hover{
-    perspective: 1000px;
-    transform: rotateY(30deg) scale(1.2);
+    transform: rotateY(30deg) scale(1.2);   /* 1.2 escala 120%, 20% més */
 }
