@@ -42,7 +42,7 @@ body{
     padding: 0;
     height: 100%;
     background-color: wheat;
-    color: white;
+    color: black;
 }
 
 ul{
@@ -100,6 +100,7 @@ button a{
 footer {
     color: black;
     padding-left: 2rem;
+    margin-top: 14rem;
 }
 
 .redes a{
