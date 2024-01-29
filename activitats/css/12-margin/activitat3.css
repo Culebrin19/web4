@@ -33,6 +33,7 @@
     background-color: red;
     color: white;
     font-weight: bold;
+    margin-left: 45%;
 }
 
 .text1{
@@ -54,4 +55,8 @@
     background-color: white;
     color: black;
     font-weight: bold;
+    margin-left: 45%;
+}
+.contenedor{
+    width: 100%;
 }
