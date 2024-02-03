@@ -31,3 +31,10 @@
     border: 2px solid black;
 }
 
+p {
+    opacity: 0;
+  }
+  
+  p:hover {
+    opacity: 1;;
+  }
