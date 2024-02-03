@@ -1,0 +1,67 @@
+.reloj {
+    width: 13rem;
+    height: 13rem;
+    border: 10px solid black;
+    border-radius: 10rem;
+}
+
+.segundo {
+    height: 120px;
+    width: 4px;
+    background: black;
+    margin-left: 6rem;
+    margin-top: 1rem;
+}
+
+.segundo {
+    animation: rotar 60s infinite;
+}
+
+@keyframes rotar {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.minuto {
+    height: 100px;
+    width: 4px;
+    background: red;
+    margin-left: 6rem;
+    margin-top: -6rem;
+}
+
+.minuto {
+    animation: rotar1 3600s infinite;
+}
+
+@keyframes rotar1 {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.hora {
+    height: 70px;
+    width: 4px;
+    background: darkgreen;
+    margin-left: 6rem;
+    margin-top: -6rem;
+}
+
+.hora {
+    animation: rotar 43200s infinite;   /* 12h */
+}
+
+@keyframes rotar2 {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+
+
+
+
+
