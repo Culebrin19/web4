@@ -1,18 +1,10 @@
-@keyframes rotacio {
-    from {
-      transform: rotate(0deg);
-    }
-  
-    to {
-      transform: rotate(360deg);
-    }
-  }
-  
   .noria {
     width: 400px;
-    height: 400px;
-    animation-name: rotacio;
-    animation-duration: 12s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;    /* Fa que no pari de girar (es repeteix de manera infinita)*/
+    height: 400px;    
+    animation: rotacio 20s infinite; /* Fa que no pari de girar (es repeteix de manera infinita)*/
+  }
+
+  @keyframes rotacio {
+    0% {transform: rotate(0deg);}
+    100% {transform: rotate(360deg);}
   }
