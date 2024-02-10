@@ -101,3 +101,9 @@ footer {
     font-size: 18px;
     font-weight: bold;
 }
+
+.rss img{
+    border: 1px solid black;
+    padding: 0.6rem;
+    margin-left: 3rem;
+}
