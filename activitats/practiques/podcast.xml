@@ -1,7 +1,33 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
 <rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
 <channel>
+
+<title><![CDATA[The NBA Next Podcast]]></title>
+    <link>https://rss.com/podcasts/thenbanextpodcast</link>
+    <atom:link href="https://media.rss.com/thenbanextpodcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <description><![CDATA[<p>Keith Smith and Scott Allen talk about what’s next in the financial world of the NBA.</p>]]></description>
+    <generator>RSS.com v2.12.2</generator>
+    <lastBuildDate>Fri, 09 Feb 2024 15:07:01 GMT</lastBuildDate>
+    <language>en</language>
+    <copyright><![CDATA[© All rights reserved.]]></copyright>
+    <itunes:image href="https://media.rss.com/thenbanextpodcast/20230320_090324_e346bdd0c7a25756490039b3f0ca717e.jpg"/>
+    <podcast:guid>db0a78ce-2cc8-5944-9eb8-14a69ca919a8</podcast:guid>
+    <image>
+      <url>https://media.rss.com/thenbanextpodcast/20230320_090324_e346bdd0c7a25756490039b3f0ca717e.jpg</url>
+      <title>The NBA Next Podcast</title>
+      <link>https://rss.com/podcasts/thenbanextpodcast</link>
+    </image>
+    <podcast:locked>yes</podcast:locked>
+    <podcast:license>© All rights reserved.</podcast:license>
+    <itunes:author>Spotrac</itunes:author>
+    <itunes:owner>
+      <itunes:name>Spotrac</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Sports"/>
+
 <item>
      <title><![CDATA[Trade Deadline Recap & Updated Buyout Candidates]]></title>
       <itunes:title><![CDATA[Trade Deadline Recap & Updated Buyout Candidates]]></itunes:title>
