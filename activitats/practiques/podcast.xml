@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
 <rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
 <channel>
 
@@ -14,7 +15,7 @@
     <itunes:image href="https://media.rss.com/thenbanextpodcast/20230320_090324_e346bdd0c7a25756490039b3f0ca717e.jpg"/>
     <podcast:guid>db0a78ce-2cc8-5944-9eb8-14a69ca919a8</podcast:guid>
     <image>
-      <url>https://media.rss.com/thenbanextpodcast/20230320_090324_e346bdd0c7a25756490039b3f0ca717e.jpg</url>
+      <url>https://culebrin19.github.io/web4/activitats/imatges/H.jpg</url>
       <title>The NBA Next Podcast</title>
       <link>https://rss.com/podcasts/thenbanextpodcast</link>
     </image>
@@ -45,67 +46,31 @@
 </item>
 
 <item>
-    <title><![CDATA[West Buyers and Sellers & Buyout Candidates]]></title>
-      <itunes:title><![CDATA[West Buyers and Sellers & Buyout Candidates]]></itunes:title>
-      <description><![CDATA[<p>Keith Smith and Scott Allen talk about the Western Conference buyers and sellers at the trade deadline (2:23). Then look at Keith's list of buyout candidates once the trade deadline has passed (17:04). Finally, what's next (23:47).</p>]]></description>
-      <link>https://rss.com/podcasts/thenbanextpodcast/1335994</link>
-      <enclosure url="https://media.rss.com/thenbanextpodcast/2024_02_07_16_23_35_524b503f-9d26-4609-9808-c7cab21dcc08.mp3" length="26668765" type="audio/mpeg"/>
-      <guid isPermaLink="false">f3eda222-186b-460b-94c2-98c13d037dd9</guid>
-      <itunes:duration>1666</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>41</itunes:episode>
-      <podcast:episode>41</podcast:episode>
-      <itunes:explicit>false</itunes:explicit>
-      <pubDate>Wed, 07 Feb 2024 16:24:36 GMT</pubDate>
-      <podcast:chapters url="https://apollo.rss.com/chapters/1335994" type="application/json+chapters"/>
+    <pubDate>Published on: Wed, 07 Feb 2024</pubDate>
+    <summary>Keith Smith and Scott Allen talk about the Western Conference buyers and sellers at the trade deadline (2:23). Then look at Keith's list of buyout candidates once the trade deadline has passed (17:04). Finally, what's next (23:47).</summary>
+    <enclosure url="https://open.spotify.com/episode/2eiEBNvqT5GZWiDCfEsG6H?si=mqCnT74qSLC2UFyuhyX2Ag" type="audio/mpeg" length="257551226"/>
+    <author>Julio César Fernández Muñoz</author>
 </item>
 
 <item>
-   <title><![CDATA[Trade Machine, Rozier to the Heat, Bucks Hire Doc Rivers & East Buyers and Sellers]]></title>
-      <itunes:title><![CDATA[Trade Machine, Rozier to the Heat, Bucks Hire Doc Rivers & East Buyers and Sellers]]></itunes:title>
-      <description><![CDATA[<p>Keith Smith and Scott Allen talk about the new <a href="https://www.spotrac.com/nba/trade-machine">trade machine</a> on <a href="http://spotrac.com">spotrac.com</a> (00:19). Then they recap the Heat-Hornets trade that sent Terry Rozier to the Heat and Kyle Lowry to the Hornets (03:27), Doc Rivers to the Bucks (10:27), Wes Unseld Jr out in Washington (18:03) and Eastern Conference buyers and sellers at the trade deadline (22:09). Finally, what's next (37:51).</p>]]></description>
-      <link>https://rss.com/podcasts/thenbanextpodcast/1317556</link>
-      <enclosure url="https://media.rss.com/thenbanextpodcast/2024_01_26_14_20_56_6391985b-6f7a-4cab-83dd-6663cf51585f.mp3" length="38965124" type="audio/mpeg"/>
-      <guid isPermaLink="false">8474422c-b207-488d-af7d-89a955b838b3</guid>
-      <itunes:duration>2435</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>40</itunes:episode>
-      <podcast:episode>40</podcast:episode>
-      <itunes:explicit>false</itunes:explicit>
-      <pubDate>Fri, 26 Jan 2024 14:24:34 GMT</pubDate>
-      <podcast:chapters url="https://apollo.rss.com/chapters/1317556" type="application/json+chapters"/>
+    <pubDate>Published on: Fri, 26 Jan 2024</pubDate>
+    <summary>Keith Smith and Scott Allen talk about the new trade machine on spotrac.com (00:19). Then they recap the Heat-Hornets trade that sent Terry Rozier to the Heat and Kyle Lowry to the Hornets (03:27), Doc Rivers to the Bucks (10:27), Wes Unseld Jr out in Washington (18:03) and Eastern Conference buyers and sellers at the trade deadline (22:09). Finally, what's next (37:51).</summary>
+    <enclosure url="https://open.spotify.com/episode/2eiEBNvqT5GZWiDCfEsG6H?si=mqCnT74qSLC2UFyuhyX2Ag" type="audio/mpeg" length="257551226"/>
+    <author>Julio César Fernández Muñoz</author>
 </item>
 
 <item>
-    <title><![CDATA[Pacers Acquire Siakam, Wizards Acquire Bagley, NBA Trade Deadline Primer & Kawhi's Extension]]></title>
-      <itunes:title><![CDATA[Pacers Acquire Siakam, Wizards Acquire Bagley, NBA Trade Deadline Primer & Kawhi's Extension]]></itunes:title>
-      <description><![CDATA[<p>Keith Smith and Scott Allen talk about the Pacers-Toronto-Pelicans trades that sent Pascal Siakam to the Pacers and Bruce Brown Jr to the Raptors (00:21). Then they recap the Pistons-Wizards trade that sent Marvin Bagley III to the Wizards (20:17), talk about Keith's Trade Primer piece on <a href="http://spotrac.com">spotrac.com</a> (29:10) and Kawhi Leonard's extension with the Clippers (42:12). Finally, what's next (51:10).</p>]]></description>
-      <link>https://rss.com/podcasts/thenbanextpodcast/1307940</link>
-      <enclosure url="https://media.rss.com/thenbanextpodcast/2024_01_19_15_05_05_feb7253b-dec4-46fc-8753-faa149250223.mp3" length="53947289" type="audio/mpeg"/>
-      <guid isPermaLink="false">bc477126-5b09-4c6b-af29-f6e8f194ace4</guid>
-      <itunes:duration>3371</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>39</itunes:episode>
-      <podcast:episode>39</podcast:episode>
-      <itunes:explicit>false</itunes:explicit>
-      <pubDate>Fri, 19 Jan 2024 15:07:04 GMT</pubDate>
-      <podcast:chapters url="https://apollo.rss.com/chapters/1307940" type="application/json+chapters"/>
+    <pubDate>Published on: Fri, 19 Jan 2024</pubDate>
+    <summary>Keith Smith and Scott Allen talk about the Pacers-Toronto-Pelicans trades that sent Pascal Siakam to the Pacers and Bruce Brown Jr to the Raptors (00:21). Then they recap the Pistons-Wizards trade that sent Marvin Bagley III to the Wizards (20:17), talk about Keith's Trade Primer piece on spotrac.com (29:10) and Kawhi Leonard's extension with the Clippers (42:12). Finally, what's next (51:10).</summary>
+    <enclosure url="https://open.spotify.com/episode/2eiEBNvqT5GZWiDCfEsG6H?si=mqCnT74qSLC2UFyuhyX2Ag" type="audio/mpeg" length="257551226"/>
+    <author>Julio César Fernández Muñoz</author>
 </item>
 
 <item>
-    <title><![CDATA[Spoelstra’s Extension, Trade Outlook for Top NBA Teams & Minor Transactions]]></title>
-      <itunes:title><![CDATA[Spoelstra’s Extension, Trade Outlook for Top NBA Teams & Minor Transactions]]></itunes:title>
-      <description><![CDATA[<p>Keith Smith and Scott Allen talk about Erik Spoelstra’s new extension (00:59). Then they recap the Knicks-Raptors trade that sent OG Anunoby to the Knicks (02:48), trade outlooks for the top NBA teams (10:04) and minor transactions (24:32). Finally, what's next (36:01).</p>]]></description>
-      <link>https://rss.com/podcasts/thenbanextpodcast/1295764</link>
-      <enclosure url="https://media.rss.com/thenbanextpodcast/2024_01_10_16_40_32_c8d7a5d1-41ab-47ef-8c4f-3b10ffb95b13.mp3" length="39091766" type="audio/mpeg"/>
-      <guid isPermaLink="false">4ba1c1aa-f0c5-4f13-abd2-d55d80d9ffdc</guid>
-      <itunes:duration>2443</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>38</itunes:episode>
-      <podcast:episode>38</podcast:episode>
-      <itunes:explicit>false</itunes:explicit>
-      <pubDate>Wed, 10 Jan 2024 16:43:25 GMT</pubDate>
-      <podcast:chapters url="https://apollo.rss.com/chapters/1295764" type="application/json+chapters"/>
+    <pubDate>Published on: Wed, 10 Jan 2024</pubDate>
+    <summary>Keith Smith and Scott Allen talk about Erik Spoelstra’s new extension (00:59). Then they recap the Knicks-Raptors trade that sent OG Anunoby to the Knicks (02:48), trade outlooks for the top NBA teams (10:04) and minor transactions (24:32). Finally, what's next (36:01).</summary>
+    <enclosure url="https://open.spotify.com/episode/2eiEBNvqT5GZWiDCfEsG6H?si=mqCnT74qSLC2UFyuhyX2Ag" type="audio/mpeg" length="257551226"/>
+    <author>Julio César Fernández Muñoz</author>
 </item>
 </channel>
 </rss>
