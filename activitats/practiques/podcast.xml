@@ -1,10 +1,49 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<rss>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+<channel>
+<item>
+     <title><![CDATA[Trade Deadline Recap & Updated Buyout Candidates]]></title>
+      <itunes:title><![CDATA[Trade Deadline Recap & Updated Buyout Candidates]]></itunes:title>
+      <description><![CDATA[<p>Keith Smith and Scott Allen recap the Trade Deadline (00:18). Then look at updated buyout candidate list (27:00). Finally, what's next (34:53).</p>]]></description>
+      <link>https://rss.com/podcasts/thenbanextpodcast/1338721</link>
+      <enclosure url="https://media.rss.com/thenbanextpodcast/2024_02_09_15_04_25_798ad038-a157-44c9-99e6-d1b0b3cff515.mp3" length="36561023" type="audio/mpeg"/>
+      <guid isPermaLink="false">e472732e-1bfe-4b9c-883f-d5db20c357ef</guid>
+      <itunes:duration>2285</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>42</itunes:episode>
+      <podcast:episode>42</podcast:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Fri, 09 Feb 2024 15:06:59 GMT</pubDate>
+      <podcast:chapters url="https://apollo.rss.com/chapters/1338721" type="application/json+chapters"/>
+</item>
 
 <item>
-    <pubDate>Published on: Fri, 09 Feb 2024</pubDate>
-    <summary>Keith Smith and Scott Allen recap the Trade Deadline (00:18). Then look at updated buyout candidate list (27:00). Finally, what's next (34:53).</summary>
+    <pubDate>Published on: Wed, 07 Feb 2024</pubDate>
+    <summary>Keith Smith and Scott Allen talk about the Western Conference buyers and sellers at the trade deadline (2:23). Then look at Keith's list of buyout candidates once the trade deadline has passed (17:04). Finally, what's next (23:47).</summary>
     <enclosure url="https://open.spotify.com/episode/2eiEBNvqT5GZWiDCfEsG6H?si=mqCnT74qSLC2UFyuhyX2Ag" type="audio/mpeg" length="257551226"/>
     <author>Julio César Fernández Muñoz</author>
 </item>
+
+<item>
+    <pubDate>Published on: Fri, 26 Jan 2024</pubDate>
+    <summary>Keith Smith and Scott Allen talk about the new trade machine on spotrac.com (00:19). Then they recap the Heat-Hornets trade that sent Terry Rozier to the Heat and Kyle Lowry to the Hornets (03:27), Doc Rivers to the Bucks (10:27), Wes Unseld Jr out in Washington (18:03) and Eastern Conference buyers and sellers at the trade deadline (22:09). Finally, what's next (37:51).</summary>
+    <enclosure url="https://open.spotify.com/episode/2eiEBNvqT5GZWiDCfEsG6H?si=mqCnT74qSLC2UFyuhyX2Ag" type="audio/mpeg" length="257551226"/>
+    <author>Julio César Fernández Muñoz</author>
+</item>
+
+<item>
+    <pubDate>Published on: Fri, 19 Jan 2024</pubDate>
+    <summary>Keith Smith and Scott Allen talk about the Pacers-Toronto-Pelicans trades that sent Pascal Siakam to the Pacers and Bruce Brown Jr to the Raptors (00:21). Then they recap the Pistons-Wizards trade that sent Marvin Bagley III to the Wizards (20:17), talk about Keith's Trade Primer piece on spotrac.com (29:10) and Kawhi Leonard's extension with the Clippers (42:12). Finally, what's next (51:10).</summary>
+    <enclosure url="https://open.spotify.com/episode/2eiEBNvqT5GZWiDCfEsG6H?si=mqCnT74qSLC2UFyuhyX2Ag" type="audio/mpeg" length="257551226"/>
+    <author>Julio César Fernández Muñoz</author>
+</item>
+
+<item>
+    <pubDate>Published on: Wed, 10 Jan 2024</pubDate>
+    <summary>Keith Smith and Scott Allen talk about Erik Spoelstra’s new extension (00:59). Then they recap the Knicks-Raptors trade that sent OG Anunoby to the Knicks (02:48), trade outlooks for the top NBA teams (10:04) and minor transactions (24:32). Finally, what's next (36:01).</summary>
+    <enclosure url="https://open.spotify.com/episode/2eiEBNvqT5GZWiDCfEsG6H?si=mqCnT74qSLC2UFyuhyX2Ag" type="audio/mpeg" length="257551226"/>
+    <author>Julio César Fernández Muñoz</author>
+</item>
+</channel>
 </rss>
