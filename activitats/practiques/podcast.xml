@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
 <rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
 <channel>
-
+  <title><![CDATA[PODCAST SOBRE LA NBA, POR HARSH]]></title>
 <title><![CDATA[The NBA Next Podcast]]></title>
     <link>https://rss.com/podcasts/thenbanextpodcast</link>
     <atom:link href="https://media.rss.com/thenbanextpodcast/feed.xml" rel="self" type="application/rss+xml"/>
