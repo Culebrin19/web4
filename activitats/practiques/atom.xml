@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<channel>
 	  <title>Noticias de informatica</title>
 		<entry>
 			<title>Visc V30 i V30 Lite arriben a Mèxic per introduir la llum aura intel·ligent</title>
@@ -26,5 +25,4 @@
 			<category term="gadets"/>
 		</entry>
 		
-	</channel>
 	</feed>
